@@ -1,5 +1,7 @@
 # shellcheck-travis
 
+[![Build Status](https://travis-ci.org/mineo/shellcheck-travis.svg?branch=master)](https://travis-ci.org/mineo/shellcheck-travis)
+
 This repository provides a working setup for using [shellcheck](http://www.shellcheck.net/)
 on [Travis CI](https://travis-ci.org/). It can be used as a starting point for other repositories
 that contain shell scripts or can be dropped into existing repositories.
